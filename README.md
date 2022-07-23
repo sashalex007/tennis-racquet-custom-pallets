@@ -8,10 +8,10 @@ This project was born from the rabbit-hole that is tennis racquet customization.
 
 ## Printing instructions
 
-Use CF nylon or CF pc only. One wall and 12% infill is sufficient with these filaments. PLA will need at least 3 walls for sufficient strength thereby increasing weight substantially. 
+Use CF nylon or CF pc only. One wall and 12% infill is sufficient with these filaments. PLA will need at least 3 walls for sufficient strength thereby increasing weight substantially. Print vertically. Cartesian bed-slingers will require slower speeds to minimize vibration at height. 
 
 ## Guide
 
-1. Use a utility knife to remove all the pallet foam from the handle. Once the hairpin is exposed, the goal is to expose the graphite hairpin. This is very easy with Wilson frames because they are rectangular. Yonex frames will be a struggle because the hairpin has some curvature. The foam will also have metal weights embedded; make sure to clean these, the printed pallets have inserts for them. 
+1. Use a utility knife to remove all the pallet foam from the handle. The goal is to expose the graphite hairpin. This is very easy with Wilson frames because they are rectangular. Yonex frames will be a struggle because the hairpin has some curvature. The foam will also have metal weights embedded; make sure to clean these, the printed pallets have inserts for them. 
 
 2. Although the friction fit on the hairpin is fairly strong, put a couple dabs of superglue on the hairpin before installation. Do the same on the pallet for buttcap installation. Superglue the metal weights in place. 
